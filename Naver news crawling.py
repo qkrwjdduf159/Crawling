@@ -42,3 +42,5 @@ news_url = []
 for i in range(len(articles)):
     news_url.append(articles[i]['href'])
 print(news_url)
+
+## 끝
